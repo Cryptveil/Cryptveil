@@ -6,4 +6,4 @@ My current goal is to become a DevOps Engineer.
 
 Always improving something about myself, always struggling no matter how hard things get.
 
-Becoming the best at what I do is my drive.
+Becoming the best at what I do is what drives me.
