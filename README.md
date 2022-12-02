@@ -9,3 +9,7 @@ Always improving something about myself, always struggling no matter how hard th
 Becoming the best at what I do is what drives me.
 
 I'll try my best to keep my GitHub updated with my coding progress.
+
+Codewars current progress:
+
+![This is an image](https://www.codewars.com/users/Grellheist/badges/large)
