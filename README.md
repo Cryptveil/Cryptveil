@@ -13,3 +13,5 @@ I'll try my best to keep my GitHub updated with my coding progress.
 🥋 Current Codewars rank 🥋:
 
 ![This is an image](https://www.codewars.com/users/Grellheist/badges/large)
+
+*There is absolutely nothing I cannot do with my sheer force of will.*
