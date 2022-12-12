@@ -14,7 +14,7 @@ I'll try my best to keep my GitHub updated with my coding progress.
 
 ![This is an image](https://www.codewars.com/users/Grellheist/badges/large)
 
-🤖 GitHub streak 🤖:
+☕ GitHub streak ☕:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=grellheist&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
