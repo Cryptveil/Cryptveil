@@ -17,10 +17,10 @@ I'll try my best to keep my GitHub updated with my coding progress.
 <img src="https://streak-stats.demolab.com?user=grellheist&theme=dracula&hide_border=true)](https://git.io/streak-stats)" />
 </a>
   
-🖥️ Most used languages 🖥️:
+<!--🖥️ Most used languages 🖥️:
 
 <img src="https://raw.githubusercontent.com/grellheist/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-
+-->
 🥋 Current Codewars rank 🥋:
 
 ![Codewars](https://www.codewars.com/users/Grellheist/badges/large)
