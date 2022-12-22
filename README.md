@@ -13,13 +13,13 @@ I'll try my best to keep my GitHub updated with my coding progress.
 💪 GitHub stats 💪:
 
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=grellheist&theme=highcontrast&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=grellheist&theme=dracula&show_icons=true&count_private=true" />
 <img src="https://streak-stats.demolab.com?user=grellheist&theme=dracula&hide_border=true)](https://git.io/streak-stats)" />
 </a>
   
 ☕ Most used languages ☕:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=lua" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=lua&theme=dracula" />
 
 🥋 Current Codewars rank 🥋:
 
