@@ -10,9 +10,9 @@ Becoming the best at what I do is what drives me.
 
 I'll try my best to keep my GitHub updated with my coding progress.
 
-🥋 Current Codewars rank 🥋:
+💪 GitHub stats 💪:
 
-![This is an image](https://www.codewars.com/users/Grellheist/badges/large)
+![Github stats](https://github-readme-stats.vercel.app/api?username=grellheist&theme=highcontrast&show_icons=true&count_private=true)
 
 ☕ GitHub streak ☕:
 
@@ -22,8 +22,8 @@ I'll try my best to keep my GitHub updated with my coding progress.
 
 ![Language Stats](https://raw.githubusercontent.com/grellheist/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-💪 GitHub stats 💪:
+🥋 Current Codewars rank 🥋:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=grellheist&theme=highcontrast&show_icons=true&count_private=true)
+![Codewars](https://www.codewars.com/users/Grellheist/badges/large)
 
 *There is absolutely nothing I cannot do with my sheer force of will.*
