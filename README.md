@@ -18,4 +18,8 @@ I'll try my best to keep my GitHub updated with my coding progress.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=grellheist&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
+🖥️ Most used languages 🖥️:
+
+![Language Stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 *There is absolutely nothing I cannot do with my sheer force of will.*
