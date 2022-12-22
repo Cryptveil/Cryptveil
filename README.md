@@ -20,6 +20,6 @@ I'll try my best to keep my GitHub updated with my coding progress.
 
 🖥️ Most used languages 🖥️:
 
-![Language Stats](https://raw.githubusercontent.com/grellheist/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Language Stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 *There is absolutely nothing I cannot do with my sheer force of will.*
