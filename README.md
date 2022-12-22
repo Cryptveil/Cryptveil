@@ -22,4 +22,8 @@ I'll try my best to keep my GitHub updated with my coding progress.
 
 ![Language Stats](https://raw.githubusercontent.com/grellheist/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+💪 GitHub stats 💪:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=grellheist&theme=highcontrast&show_icons=true&count_private=true)
+
 *There is absolutely nothing I cannot do with my sheer force of will.*
