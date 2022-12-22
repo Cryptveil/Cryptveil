@@ -19,7 +19,7 @@ I'll try my best to keep my GitHub updated with my coding progress.
   
 🖥️ Most used languages 🖥️:
 
-![Language Stats](https://raw.githubusercontent.com/grellheist/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/grellheist/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 
 🥋 Current Codewars rank 🥋:
 
