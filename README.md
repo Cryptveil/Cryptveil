@@ -28,7 +28,7 @@
   
   ##
   
-  <img align="top" src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
+  <img align="center" src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
 
 <div>
   <br>
