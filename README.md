@@ -31,6 +31,6 @@
   <img align="top" src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
 
 <div>
-  <br><br><br><br>
+  <br>
   <p align="center"><i>There is absolutely nothing I cannot do with my sheer force of will.</i></p>
 </div>
