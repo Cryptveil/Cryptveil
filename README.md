@@ -16,7 +16,12 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="right" height="165" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=grellheist&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" />
-<img align="center" src="https://www.codewars.com/users/Grellheist/badges/large">
+  <img align="top" src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
+  <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" "height="25" width="30" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg"/>
 <div>
   <br><br><br><br><br><br><br>
   <p align="center"><i>There is absolutely nothing I cannot do with my sheer force of will.</i></p>
