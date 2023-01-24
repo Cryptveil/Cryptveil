@@ -1,6 +1,6 @@
 # Hey, I'm Grellheist!
 
-🐧 Currently work as a Network ADM/Operator.
+🐧 Currently working as a Network ADM/Operator.
 
 ☕ My current goal is to become a Web Developer.
 
