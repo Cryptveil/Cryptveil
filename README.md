@@ -16,6 +16,7 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/Grellheist"><img align="right" height="165" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=grellheist&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" /></a>
   <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" "height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
