@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/Grellheist">
   <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api?username=grellheist&theme=tokyonight&show_icons=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-grellheist.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=lua,shell,&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats-grellheist.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=lua,shell,tex,&theme=tokyonight" />
 </div>
 <div style="display: inline_block"><br>
   <a href="https://github.com/Grellheist"><img align="right" height="165" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=grellheist&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" /></a>
