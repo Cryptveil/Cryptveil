@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api?username=grellheist&theme=tokyonight&show_icons=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats-grellheist.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=lua,shell,tex,scss,&theme=tokyonight" />
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://github.com/Grellheist"><img align="right" height="165" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=grellheist&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" /></a>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
@@ -28,8 +28,15 @@
   
   ##
   
-  <img align="center" src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
-
+  <div align="center">
+  <img src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
+  </div>
+  
+  ##
+  
+  <div align="center">
+  <a href="https://imgflip.com/i/7bfhdm"><img src="https://i.imgflip.com/7bfhdm.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+  </div>
                                                                   
 <div>
   <br>
