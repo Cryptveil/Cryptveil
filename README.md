@@ -34,11 +34,15 @@
   
   ##
   
+  <div>
+  <br>
+  <p align="center"><i>There is absolutely nothing I cannot do with my sheer force of will.</i></p>
+</div>
+
+  ##
+  
   <div align="center">
   <a href="https://imgflip.com/i/7bfhdm"><img src="https://i.imgflip.com/7bfhdm.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
   </div>
                                                                   
-<div>
-  <br>
-  <p align="center"><i>There is absolutely nothing I cannot do with my sheer force of will.</i></p>
-</div>
+
