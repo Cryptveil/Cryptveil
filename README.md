@@ -42,7 +42,7 @@
   ##
   
   <div align="center">
-  <img src="https://i.imgur.com/IHNG43y.png" title="made at imgflip.com"/></a><div></div>
+  <a href="https://www.codewars.com/users/Grellheist"><img src="https://i.imgur.com/IHNG43y.png" title="made at imgflip.com"/></a><div></div>
   </div>
                                                                   
 
