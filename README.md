@@ -29,7 +29,7 @@
   ##
   
   <div align="center">
-  <img src="https://www.codewars.com/users/Grellheist/badges/large"><br><br>
+  <a href="https://www.codewars.com/users/Grellheist"><img src="https://www.codewars.com/users/Grellheist/badges/large"></a><br><br>
   </div>
   
   ##
