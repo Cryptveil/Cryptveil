@@ -42,7 +42,7 @@
   ##
   
   <div align="center">
-  <a href="https://github.com/Grellheist"><img src="https://imgflip.com/i/7gie2g" title="made at imgflip.com"/></a><div></div>
+  <a href="https://github.com/Grellheist"><img src="https://i.imgflip.com/7gie2g.jpg" title="made at imgflip.com"/></a><div></div>
   </div>
                                                                   
 
