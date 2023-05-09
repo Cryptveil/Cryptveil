@@ -42,7 +42,7 @@
   ##
   
   <div align="center">
-  <a href="https://github.com/Grellheist"><img src="https://i.imgflip.com/7gie2g.jpg" title="made at imgflip.com"/></a><div></div>
+  <a href="https://github.com/Grellheist"><img src="https://pbs.twimg.com/media/EzRewP5VUAowWoN?format=png&name=900x900" title="typescript vs javascript"/></a><div></div>
   </div>
                                                                   
 
