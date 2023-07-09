@@ -8,6 +8,14 @@
 
 🗿 Becoming the best at what I do is what drives me.
 
+##
+
+🔥 My favorite projects:
+* <a href="https://github.com/Grellheist/whisker">Whisker</a>
+* <a href="https://github.com/Grellheist/Personal-Portfolio">Personal Portfolio</a>
+
+##
+
 <div align="center">
   <a href="https://github.com/Grellheist">
   <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api?username=grellheist&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub stats" />
