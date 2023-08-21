@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/Grellheist">
   <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api?username=grellheist&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=shell,tex,scss,ejs,css,html,astro&theme=tokyonight" alt="Most used languages"/>
+  <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api/top-langs/?username=grellheist&layout=compact&hide=shell,tex,scss,ejs,css,html&theme=tokyonight" alt="Most used languages"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <a href="https://github.com/Grellheist"><img align="right" height="165" style="border-radius:50px;" src="https://streak-stats.demolab.com?user=grellheist&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)" /></a>
