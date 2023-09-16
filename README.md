@@ -10,7 +10,7 @@
 
 ##
 
-<div align="center">On a small hiatus for mental healing. I am very overworked atm.</div>
+On a small hiatus for mental healing. I am very overworked atm.
 
 ##
 
