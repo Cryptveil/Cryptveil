@@ -8,7 +8,6 @@
 
 🗿 Becoming the best at what I do is what drives me.
 
-##
 
 On a small hiatus for mental healing. I am very overworked atm.
 
