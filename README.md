@@ -10,6 +10,10 @@
 
 ##
 
+Just when I imagined I would be able to be back at programming everyday, my work has some other plans... Will try working on my projects soon.
+
+##
+
 🔥 My favorite projects:
 * <a href="https://github.com/Grellheist/whisker">Whisker</a>
 * <a href="https://github.com/Grellheist/portfolio-v2">Personal Porfolio</a>
