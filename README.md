@@ -10,7 +10,7 @@
 
 ##
 
-Just when I imagined I would be able to be back at programming everyday, my work has some other plans... Will try working on my projects soon.
+I will try continuing my projects tomorrow.
 
 ##
 
