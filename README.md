@@ -8,6 +8,8 @@
 
 🗿 Becoming the best at what I do is what drives me.
 
+⚠️ I've got a pretty busy schedule atm, so it'll be hard for me to finish my projects for now. I'm not giving up though.
+
 ##
 
 🔥 My favorite projects:
