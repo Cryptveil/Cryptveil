@@ -71,7 +71,7 @@
   ##
   
   <div align="center">
-  <a href="https://github.com/Grellheist"><img src="https://pbs.twimg.com/media/EzRewP5VUAowWoN?format=png&name=900x900" title="typescript vs javascript"/></a><div></div>
+  <a href="https://github.com/Grellheist"><img src="https://pbs.twimg.com/media/F7ANundbQAAZgXE?format=jpg&name=medium" title="typescript vs javascript"/></a><div></div>
   </div>
                                                                   
 
