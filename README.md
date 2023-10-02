@@ -15,7 +15,7 @@
 🔥 My favorite projects:
 * <a href="https://github.com/Grellheist/whisker">Whisker</a>
 * <a href="https://github.com/Grellheist/portfolio-v2">Personal Porfolio</a>
-* <a href="https://github.com/Grellheist/monify">Monify (WIP)</a>
+* <a href="https://github.com/Grellheist/monify">Monify</a>
 
 ##
 
