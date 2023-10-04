@@ -19,6 +19,11 @@
 
 ##
 
+🔥 Current project:
+<a href="https://github.com/Grellheist">Placeholder</a>
+
+##
+
 <div align="center">
   <a href="https://github.com/Grellheist">
   <img height="180em" src="https://github-readme-stats-grellheist.vercel.app/api?username=grellheist&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub stats" />
