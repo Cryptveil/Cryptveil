@@ -20,7 +20,8 @@
 ##
 
 🔥 Current project:
-<a href="https://github.com/Grellheist">Placeholder</a>
+
+* <a href="https://github.com/Grellheist">Placeholder</a>
 
 ##
 
