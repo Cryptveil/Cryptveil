@@ -12,7 +12,7 @@
 
 ##
 
-I'll be on my paid vacation soon, so I'll have more time for projects, finally!
+🙌 I'll be on my paid vacation soon, so I'll have more time for projects, finally!
 
 ##
 
