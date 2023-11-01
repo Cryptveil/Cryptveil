@@ -8,8 +8,6 @@
 
 🗿 Becoming the best at what I do is what drives me.
 
-⚠ Currently very busy with work and Uni, so won't have much time for projects.
-
 ##
 
 🙌 I'll be on my paid vacation soon, so I'll have more time for projects, finally!
