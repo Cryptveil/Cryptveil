@@ -10,10 +10,6 @@
 
 ##
 
-🙌 I'll be on my paid vacation soon, so I'll have more time for projects, finally!
-
-##
-
 🔥 My favorite projects:
 * <a href="https://github.com/Grellheist/whisker">Whisker</a>
 * <a href="https://github.com/Grellheist/portfolio-v2">Personal Porfolio</a>
