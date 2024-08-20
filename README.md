@@ -60,7 +60,7 @@
   ##
   
   <div align="center">
-  <a href="https://www.codewars.com/users/Grellheist"><img src="https://www.codewars.com/users/Grellheist/badges/large"></a><br><br>
+  <a href="https://www.codewars.com/users/Cryptveil"><img src="https://www.codewars.com/users/Cryptveil/badges/large"></a><br><br>
   </div>
   
   ##
@@ -73,7 +73,7 @@
   ##
   
   <div align="center">
-  <a href="https://github.com/Grellheist"><img src="https://pbs.twimg.com/media/F7ANundbQAAZgXE?format=jpg&name=medium" title="typescript vs javascript"/></a><div></div>
+  <a href="https://github.com/Cryptveil"><img src="https://pbs.twimg.com/media/F7ANundbQAAZgXE?format=jpg&name=medium" title="typescript vs javascript"/></a><div></div>
   </div>
                                                                   
 
