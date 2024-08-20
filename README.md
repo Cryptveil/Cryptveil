@@ -1,4 +1,4 @@
-# Hey, I'm Grellheist!
+# Hey, I'm Victor Buntrok!
 
 🐧 Currently working as a Network Administrator.
 
@@ -11,9 +11,7 @@
 ##
 
 🔥 My favorite projects:
-* <a href="https://github.com/Grellheist/whisker">Whisker</a>
-* <a href="https://github.com/Grellheist/portfolio-v2">Personal Porfolio</a>
-* <a href="https://github.com/Grellheist/monify">Monify</a>
+* Under maintenance
 
 ##
 
